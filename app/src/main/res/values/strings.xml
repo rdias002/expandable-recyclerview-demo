@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerView</string>
+    <string name="do_you_want_to_check_this_item">Do you want to check this item?</string>
+    <string name="drop_down_arrow">Drop down arrow</string>
+</resources>
